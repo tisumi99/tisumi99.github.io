@@ -1,0 +1,41 @@
+body
+{
+background-color:#ffffff;
+}
+
+
+div.container
+{
+padding: 65px 0px 55px 0px;
+border: 0pt solid red;
+}
+
+div.innerpage
+{
+margin-left: auto;
+margin-right: auto;
+width:840px;
+border: 0pt solid blue;
+}
+
+div.cell
+{
+border:5px solid white;
+display:inline-block;
+height:200px;
+width:200px;
+}
+
+a
+{
+cursor:default;
+display:inline-block;
+height:200px;
+width:200px;
+background:url("images/surgeon.jpg");
+}
+
+a:hover
+{
+background-position: -200px 0;
+}
